@@ -1,6 +1,6 @@
 # User registration using PostManAPI and MySQL DB
 
-## **Step by step guide to use this project** 
+## **Steps to use this project** 
 
 1)	Download this project by clicking “<>code” -> Download zip then save on local machine and extract the project.
 
