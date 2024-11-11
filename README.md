@@ -1,6 +1,7 @@
 # User registration using PostManAPI and MySQL DB
 
-*Step by step guide to use this project*
+**Step by step guide to use this project**
+
 1)	Download this project by clicking “<>code” -> Download zip then save on local machine and extract the project.
 
 2)	Open VSCode and Go to file Open folder And Click on Project and go inside that folder and select “User Registration Using Postman API and MySQL DB”(If you saved it in download folder your path will be like 
