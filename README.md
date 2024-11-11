@@ -1,2 +1,2 @@
-#User registration using PostManAPI and MySQL DB
-# Image Style Transfer Using Genrative Adversal Networks
+# User registration using PostManAPI and MySQL DB
+
