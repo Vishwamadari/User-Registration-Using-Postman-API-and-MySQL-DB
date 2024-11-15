@@ -1,4 +1,4 @@
-# User registration using PostManAPI and MySQL DB
+# User registration using Python and MySQL DB
 
 ## **Steps to use this project** 
 
